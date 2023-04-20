@@ -17,8 +17,8 @@ module.exports = {
         'spotify-theme-mobile': "url('/src/img/bursts-mobile.svg')"
       }),
       backgroundSize: {
-        '175%': '175%',
-        '195%': '195%'
+        '200%': '200%',
+        '220%': '220%'
       },
       backgroundPosition: {
         'banner': '46% 4%',
